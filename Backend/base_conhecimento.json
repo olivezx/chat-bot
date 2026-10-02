@@ -1,0 +1,78 @@
+{
+  "empresa": "MY PIERCE",
+  "descricao": "O MY PIERCE é uma marca e estúdio especializado em alta joalheria corporal, visagismo auricular e consultoria de estilo para piercings. Aliamos Inteligência Artificial generativa, biossegurança rigorosa (materiais 100% biocompatíveis) e design sofisticado para criar projetos auriculares exclusivos e personalizados para cada cliente.",
+  "topicos": [
+    {
+      "id": "sobre_a_marca",
+      "perguntas_chave": [
+        "Quem é o MY PIERCE?",
+        "O que é a marca MY PIERCE?",
+        "Qual é a proposta da MY PIERCE?",
+        "Onde fica o estúdio MY PIERCE?",
+        "Como funciona a consultoria de visagismo?"
+      ],
+      "resposta": "✨ **Bem-vinda ao MY PIERCE — Piercing Match & Alta Joalheria**\n\nO **MY PIERCE** nasceu para transformar a colocação e a combinação de piercings em uma experiência de arte, autocuidado e sofisticação.\n\n💎 **Nossos Diferenciais:**\n- **Visagismo Auricular Personalizado:** Projetamos a harmonia das joias respeitando a anatomia natural e as linhas da sua orelha.\n- **Alta Joalheria Biocompatível:** Trabalhamos exclusivamente com Titânio Grau Implante (ASTM F-136) e Ouro Maciço 18k hipoalergênicos.\n- **Atendimento com IA e Consultores:** Orientação em tempo real para encontrar as joias que mais combinam com a sua personalidade e rotina."
+    },
+    {
+      "id": "guia_estilos_e_match",
+      "perguntas_chave": [
+        "Quais são os estilos de piercing?",
+        "Como funciona o Piercing Match?",
+        "Como descobrir meu estilo?",
+        "Quais as opções de estilo do teste?",
+        "Que tipo de piercing combina comigo?"
+      ],
+      "resposta": "👑 **Descubra seu Perfil com o Piercing Match do MY PIERCE**\n\nNosso teste de estilo mapeia suas preferências para indicar a composição ideal:\n\n1. 🌸 **Minimal & Sweet (Delicado):** Zircônias discretas (1.5mm a 2mm), micro huggies lisas e labrets pontuais no lóbulo, tragus e helix.\n2. ✨ **Classic Luxury (Elegante & Nobre):** Ouro amarelo/branco 18k, pérolas e navetes cravejadas em flat, conch e lóbulo.\n3. 🎨 **Boho & Indie (Criativo & Autêntico):** Texturas florais, mandalas em daith e rook, e composições assimétricas cheias de identidade.\n4. ⚡ **Bold & Avant-Garde (Ousado):** Piercings industriais (transversais), correntes entre furos, spikes e argolas statement.\n5. 📐 **Urban Sleek (Moderno & Clean):** Linhas geométricas, titânio acetinado e simetria contemporânea."
+    },
+    {
+      "id": "materiais_e_seguranca",
+      "perguntas_chave": [
+        "Qual o melhor material para furar o piercing?",
+        "Qual material não dá alergia?",
+        "Vocês usam Titânio ASTM F-136?",
+        "Posso furar com prata ou aço cirúrgico?",
+        "O que é biocompatibilidade?"
+      ],
+      "resposta": "🛡️ **Padrão Ouro em Biossegurança e Materiais Hipoalergênicos**\n\nA saúde da sua perfuração é nossa prioridade máxima:\n\n- 🥇 **Titânio Grau Implante (ASTM F-136):** O material padrão ouro recomendado mundialmente pela APP (*Association of Professional Piercers*). É 100% biocompatível, livre de níquel, leve e não oxida.\n- 💎 **Ouro Maciço 18k Biocompatível:** Indicado após a cicatrização ou sob indicação do body piercer, livre de ligas irritantes.\n- ⚠️ **Por que não usar Prata 925 na perfuração:** A prata oxida em contato com fluidos corporais, provocando manchas escuras permanentes na pele (argiria) e retardando a cicatrização.\n- 🚫 **Aço Cirúrgico Comum:** Frequentemente contém níquel residual, o maior causador de dermatite de contato."
+    },
+    {
+      "id": "perfuracoes_e_anatomia",
+      "perguntas_chave": [
+        "Quais perfurações vocês fazem?",
+        "Qual piercing dói mais?",
+        "Onde fica o piercing conch tragus helix daith?",
+        "Quanto tempo demora para cicatrizar?",
+        "Qual piercing cicatriza mais rápido?"
+      ],
+      "resposta": "📍 **Guia de Perfurações e Prazos de Cicatrização**\n\n- 👂 **Lóbulo (Lobe):** Cicatrização em *6 a 8 semanas*. Nível de dor: 1/5 (muito leve).\n- 🌀 **Helix & Tragus:** Cartilagem superior e aba frontal. Cicatrização em *6 a 10 meses*. Nível de dor: 2/5.\n- 💎 **Conch:** Cartilagem central profunda, perfeito para pedrarias ou argola abraçando a orelha. Cicatrização: *6 a 12 meses*. Nível de dor: 3/5.\n- 🌸 **Daith & Rook:** Dobras internas de cartilagem. Excelente para argolas cravejadas e mandalas. Cicatrização: *8 a 12 meses*. Nível de dor: 3/5.\n- ⛓️ **Industrial (Transversal):** Duas perfurações ligadas por uma haste. Cicatrização: *9 a 14 meses*. Nível de dor: 4/5.\n- 👃 **Nostril & Septo:** Cartilagem da aba nasal e membraninha central. Cicatrização: *6 a 10 semanas* (septo) e *3 a 5 meses* (nostril)."
+    },
+    {
+      "id": "cuidados_e_aftercare",
+      "perguntas_chave": [
+        "Como cuidar do piercing recém-furado?",
+        "Como limpar o piercing em casa?",
+        "Posso girar o piercing na orelha?",
+        "O que fazer se o piercing inflamar?",
+        "Posso ir à praia ou piscina com furo novo?"
+      ],
+      "resposta": "🧼 **Protocolo Oficial de Cuidados Pós-Perfuração (Aftercare)**\n\nSiga à risca para uma cicatrização saudável e sem queloides:\n\n1. 💧 **Higienização:** Lave delicadamente com soro fisiológico a 0,9% 2 vezes ao dia. Seque com gaze estéril (evite toalha de banho com fiapos).\n2. 🚫 **NUNCA GIRE A JOIA:** Girar rasga o tecido cicatricial recém-formado e empurra bactérias para dentro do furo.\n3. 🛌 **Atenção ao Dormir:** Não durma sobre a orelha perfurada nos primeiros meses para não inclinar o ângulo da haste.\n4. 🏊 **Evite Imersão:** Proibido praia, piscina, sauna e banheira por no mínimo 30 a 45 dias.\n5. 🧴 **Evite Cosméticos:** Mantenha pomadas caseiras, álcool 70%, maquiagem e perfumes longe da perfuração."
+    },
+    {
+      "id": "agendamento_e_contato",
+      "perguntas_chave": [
+        "Como agendar uma aplicação ou consultoria?",
+        "Qual o horário de funcionamento do estúdio?",
+        "Qual o valor da aplicação e das joias?",
+        "Vocês atendem por WhatsApp?",
+        "Como falar com a equipe MY PIERCE?"
+      ],
+      "resposta": "📅 **Agendamentos, Valores & Contato MY PIERCE**\n\n- 📲 **WhatsApp do Estúdio:** (11) 98765-4321 (Atendimento de Terça a Sábado, das 10h às 19h).\n- 📍 **Localização:** Jardins — São Paulo / SP (Atendimento exclusivo com hora marcada).\n- 💎 **Valores:** As aplicações partem de R$ 80,00 (procedimento asséptico com agulha descartável americana) + o valor da joia biocompatível escolhida no mostruário.\n- 💌 **E-mail:** `contato@mypierce.com.br`\n- 🌐 **Consultoria Virtual:** Faça o nosso teste interativo de estilo aqui mesmo no site para já receber suas sugestões antes do agendamento!"
+    }
+  ],
+  "faq_rapido": [
+    "Qual é o melhor material para a primeira perfuração?",
+    "Como funciona o teste de estilo Piercing Match?",
+    "Posso girar o piercing enquanto cicatriza?",
+    "Como agendar uma consultoria ou aplicação na MY PIERCE?"
+  ]
+}

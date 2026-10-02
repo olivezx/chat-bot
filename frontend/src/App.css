@@ -1,0 +1,20 @@
+/* App.css - Estilos específicos adicionais do componente App */
+
+/* ── Página do Chatbot ── */
+.chat-page-wrapper {
+  width: 100%;
+  min-height: 100%;
+  padding: 24px 16px;
+  display: flex;
+  align-items: stretch;
+  box-sizing: border-box;
+  background: radial-gradient(ellipse at 60% 20%, rgba(244, 63, 94, 0.06) 0%, transparent 65%),
+              radial-gradient(ellipse at 20% 80%, rgba(139, 92, 246, 0.04) 0%, transparent 60%);
+}
+
+@media (max-width: 600px) {
+  .chat-page-wrapper {
+    padding: 0;
+    background: none;
+  }
+}
